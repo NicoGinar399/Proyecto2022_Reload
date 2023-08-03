@@ -1,0 +1,7 @@
+C:\Users\nicol\OneDrive\Desktop\Proyecto 2022 reload\Proyecto2022_Reload\Persistencia\bin\Debug\Persistencia.dll
+C:\Users\nicol\OneDrive\Desktop\Proyecto 2022 reload\Proyecto2022_Reload\Persistencia\bin\Debug\Persistencia.pdb
+C:\Users\nicol\OneDrive\Desktop\Proyecto 2022 reload\Proyecto2022_Reload\Persistencia\obj\Debug\Persistencia.csprojResolveAssemblyReference.cache
+C:\Users\nicol\OneDrive\Desktop\Proyecto 2022 reload\Proyecto2022_Reload\Persistencia\obj\Debug\Persistencia.dll
+C:\Users\nicol\OneDrive\Desktop\Proyecto 2022 reload\Proyecto2022_Reload\Persistencia\obj\Debug\Persistencia.pdb
+C:\Users\nicol\OneDrive\Desktop\Proyecto 2022 reload\Proyecto2022_Reload\Persistencia\bin\Debug\EntidadesCompartidas.dll
+C:\Users\nicol\OneDrive\Desktop\Proyecto 2022 reload\Proyecto2022_Reload\Persistencia\bin\Debug\EntidadesCompartidas.pdb
