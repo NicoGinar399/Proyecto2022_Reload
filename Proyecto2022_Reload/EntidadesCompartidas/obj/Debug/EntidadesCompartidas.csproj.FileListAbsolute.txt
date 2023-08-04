@@ -2,3 +2,4 @@ C:\Users\nicol\OneDrive\Desktop\Proyecto 2022 reload\Proyecto2022_Reload\Entidad
 C:\Users\nicol\OneDrive\Desktop\Proyecto 2022 reload\Proyecto2022_Reload\EntidadesCompartidas\bin\Debug\EntidadesCompartidas.pdb
 C:\Users\nicol\OneDrive\Desktop\Proyecto 2022 reload\Proyecto2022_Reload\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.dll
 C:\Users\nicol\OneDrive\Desktop\Proyecto 2022 reload\Proyecto2022_Reload\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.pdb
+C:\Users\nicol\OneDrive\Desktop\Proyecto 2022 reload\Proyecto2022_Reload\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.csprojResolveAssemblyReference.cache

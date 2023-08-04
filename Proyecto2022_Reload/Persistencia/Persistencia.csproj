@@ -40,6 +40,19 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Clases\PersistenciaAdministrador.cs" />
+    <Compile Include="Clases\PersistenciaCategoriaPregunta.cs" />
+    <Compile Include="Clases\PersistenciaJuego.cs" />
+    <Compile Include="Clases\PersistenciaJugada.cs" />
+    <Compile Include="Clases\PersistenciaPregunta.cs" />
+    <Compile Include="Clases\PersistenciaRespuesta.cs" />
+    <Compile Include="Conexion.cs" />
+    <Compile Include="FabricaPersistencia.cs" />
+    <Compile Include="Interfaces\IPersistenciaAdministrador.cs" />
+    <Compile Include="Interfaces\IPersistenciaCategoriaPreguntas.cs" />
+    <Compile Include="Interfaces\IPersistenciaJuego.cs" />
+    <Compile Include="Interfaces\IPersistenciaJugada.cs" />
+    <Compile Include="Interfaces\IPersistenciaPregunta.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
@@ -48,6 +61,7 @@
       <Name>EntidadesCompartidas</Name>
     </ProjectReference>
   </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
        Other similar extension points exist, see Microsoft.Common.targets.
